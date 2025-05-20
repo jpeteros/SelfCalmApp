@@ -15,7 +15,7 @@ body {
   align-items: center;
   /* color: #fff; */
   /* background: url('./bg.jpg'); */
-  background: cadetblue;
+  background: #f6b092;
   background-size: cover;
 }
 
@@ -99,22 +99,21 @@ body::after {
 .breaths {
   text-align: center;
   margin-bottom: 24px;
-  font-size: 24px;
-  color: #6236ff;
-  font-size: 2rem;
+  font-size: 22px;
+  color: #fff;
   font-weight: 600;
-  text-shadow: 2px 2px 0 black, -2px 2px 0 black, 2px -2px 0 black,
-    -2px -2px 0 black;
+  text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black,
+    -1px -1px 0 black;
 }
 
 .instructions {
   text-align: center;
   margin-bottom: 32px;
-  color: #6236ff;
+  color: #fff;
   font-size: 2rem;
   font-weight: 700;
-  text-shadow: 2px 2px 0 black, -2px 2px 0 black, 2px -2px 0 black,
-    -2px -2px 0 black;
+  text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black,
+    -1px -1px 0 black;
 }
 
 button {
