@@ -14,8 +14,8 @@ body {
   justify-content: center;
   align-items: center;
   /* color: #fff; */
-  /* background: url('./bg.jpg'); */
-  background: #f6b092;
+  background: url('./bg.jpg');
+  /* background: #f6b092; */
   background-size: cover;
 }
 
